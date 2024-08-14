@@ -1,0 +1,6 @@
+Install PHP on WindowS
+• Download Xampp.
+• Install Xampp.
+• Start Apache in Xampp.
+• Make a Folder and File for php.
+• Test PHP is Installed on Not.

@@ -1,0 +1,5 @@
+Hello World in PHP
+• Make file with the .php extension.
+• Make php tag.
+• Write Code.
+• Display output op screen.

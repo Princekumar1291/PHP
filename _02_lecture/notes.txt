@@ -1,0 +1,37 @@
+What is PHP
+• Programming language that is used to build web applications and websites.
+• PHP stands for Hypertext Preprocessor.
+• PHP is a server-side scripting language.
+• PHP is faster than other scripting languages,such as ASP and JSP.
+
+
+
+
+Script Langauge EX--> js,php
+• A programming language that is interpreted
+at runtime rather than compiled.
+• Server Side Scripting Langauge--> code excuted on the server side.
+• Client Side Scripting Language--> code excuted on the client side.
+
+
+
+compiled language EX--> c,c++,java
+• A programming language that is compiled
+at runtime rather than interpreted.
+
+
+
+Features
+• Open source: PHP is free to download and use.
+• Platform independent: PHP code can run on any platform.
+• Faster: PHP scripts are usually faster than other scripting languages.
+atically converts a variable's data
+• PHP automatically converts variables data types.
+
+
+
+
+History and Version
+• The current stable version of PHP is 8.2.6.
+• The first version of PHP was available in early
+1995

@@ -3,3 +3,11 @@
 • PHP is used by 76.9% of all websites.
 • Freelancing Opportunities.
 • Now MNCs are using PHP.
+
+
+How we will learn php here?
+• Introduction and working style of php.
+• Setup and Basic PHP.
+• OOPS concept and Advance PHP.
+• PHP with HTML, CSS, and JS.
+• PHP with MySql.

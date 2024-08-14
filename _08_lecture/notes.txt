@@ -1,0 +1,11 @@
+Echo in Php
+• What is Echo?
+• Use of Echo?
+• Case Insensitive.
+Multiple Echo in a Single Line.
+• Line break in Echo.
+• Interview Question.
+
+
+
+• What is Echo?-->display output on browser,it is language construct in php

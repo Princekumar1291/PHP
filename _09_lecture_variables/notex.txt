@@ -1,0 +1,25 @@
+Variables in Php
+• What are Variables?
+• Use of Variables?
+• Examples of Variables.
+• Why Php variables are smarter than some other languages.
+• Interview Question.
+
+
+
+
+
+Variable in Php
+• The variables are storage locati 
+or
+• The variables are an abstract storage location?
+• The variable can store any kind of data.
+• Example: Name, Number etc.
+
+
+
+
+Use of variable
+• The same data is used in multiple times.
+• Display the name in multiple places on the website page.
+• Use the same number/name multiple time.

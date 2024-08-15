@@ -1,0 +1,19 @@
+Arithmetic operators
+• Use of Arithmetic operators
+• Arithmetic operators Name
+• Example
+• Interview Questions
+
+
+
+
+
+
+
+Arithmetic operators
+• Addition
+• Subtraction
+• Multiplication
+• Division
+• Modulus
+• Exponentiation

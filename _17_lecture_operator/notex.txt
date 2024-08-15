@@ -1,0 +1,19 @@
+Operators
+• What are Operators?
+• Example of Operators.
+• Type of Operators.
+• Interview Questions.
+
+
+
+
+
+Operators Name
+• Arithmetic operators
+• Assignment operators
+• Comparison operators
+• Increment/Decrement operators
+• Logical operators
+• String operators
+• Array operators Conditional
+• Assignnhent operators

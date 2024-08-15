@@ -1,7 +1,7 @@
 <!-- if else in php -->
 
 <?php
-$a=10;
+$a=30;
 $b=20;
 if($a>$b){
   echo "$a is greater than $b";
@@ -13,6 +13,9 @@ else{
 echo "<br/>";
 echo $a<>$b;
 
+echo "<br/>";
+echo $a<=>$b;
+
 //different comparision operator
 // ==
 // !=
@@ -23,3 +26,4 @@ echo $a<>$b;
 // ===
 // !==
 // <>
+//<=>

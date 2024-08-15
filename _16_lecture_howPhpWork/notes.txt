@@ -1,0 +1,55 @@
+How PHP Works?
+• Why this topic is important?
+• Understand the flow of PHP code?
+• Why we can not see the PHP code in the browser?
+• Interview Questions?
+
+
+
+
+
+
+
+How PHP Works?
+PHP (Hypertext Preprocessor) is a server-side scripting language primarily used for web development. It’s embedded within HTML and is executed on the server before the result is sent to the user's web browser.
+
+How PHP Processes a Request:
+Client Request: A client (typically a web browser) requests a PHP page by sending an HTTP request to the web server.
+Server-Side Execution: The web server recognizes the .php extension and passes the request to the PHP interpreter.
+PHP Interpreter: The PHP interpreter processes the PHP code. This can include accessing a database, processing forms, sending emails, or performing other server-side logic.
+HTML Output: After executing the PHP code, the interpreter generates an HTML page as the output.
+Response Sent to Browser: The web server sends the resulting HTML (and other resources like CSS, JavaScript) to the client’s browser for rendering.
+
+
+
+
+
+
+
+
+1. What is PHP and what are its uses?
+Answer:
+PHP (Hypertext Preprocessor) is a server-side scripting language designed for web development but also used as a general-purpose programming language. It is embedded within HTML and is primarily used to develop dynamic and interactive websites. PHP can handle tasks such as form submissions, database interactions, session tracking, and generating dynamic content.
+
+2. How does PHP differ from client-side languages like JavaScript?
+Answer:
+PHP is a server-side scripting language, meaning the code is executed on the server, and the result is sent to the client's browser as HTML. The client never sees the PHP code itself. JavaScript, on the other hand, is a client-side language that is executed in the browser. This means JavaScript code is visible to the user and can directly manipulate the content on the client side without needing to interact with the server.
+
+3. Can you explain the PHP execution process?
+Answer:
+When a PHP file is requested:
+
+The web server identifies the file as PHP by its .php extension.
+The server passes the file to the PHP interpreter.
+The interpreter processes the PHP code within <?php ?> tags, executing any server-side logic, such as database queries or calculations.
+The interpreter generates an HTML output, which includes the results of the PHP code execution.
+The server sends this HTML output back to the client's browser, where it is rendered as a webpage.
+4. What are some common security risks in PHP, and how can they be mitigated?
+Answer:
+Some common security risks in PHP include:
+
+SQL Injection: Prevented by using prepared statements and parameterized queries.
+Cross-Site Scripting (XSS): Mitigated by sanitizing and escaping output, especially when outputting user-generated content to the browser.
+Cross-Site Request Forgery (CSRF): Prevented by using anti-CSRF tokens in forms and verifying them on submission.
+File Inclusion Vulnerabilities: Controlled by using absolute paths and validating user inputs before including files.
+5. How can you connect P

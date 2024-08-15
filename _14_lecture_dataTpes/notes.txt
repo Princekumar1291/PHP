@@ -1,0 +1,21 @@
+Data Type in PHP
+• What is data type?
+• Total data types.
+• Name of data type in PHP.
+• Example of all data types.
+• Interview Questions.
+
+
+
+
+All Data type in PHP
+• String
+• Integer
+• float
+• Boolean
+• Null
+• Array
+• Object(class)
+• Recourse -->use to store connection
+
+no char data type in php

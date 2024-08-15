@@ -1,0 +1,17 @@
+Comparison Operators
+• Use of Comparison Operators
+• Checkout All Comparison Operators
+• Example of Comparison Operators
+• Interview Questions 
+
+
+different comparision operator
+==
+!=
+<
+>
+<=
+>=
+===
+!==
+<>

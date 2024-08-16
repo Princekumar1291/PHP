@@ -1,0 +1,7 @@
+Foreach lopp in PHF
+• Use of for each loop
+• Syntax
+• Example
+• Break and continue
+• The second way to use for each loop
+• Interview Questions 

@@ -1,0 +1,16 @@
+Array in PHP
+• What is Arr ?
+• Why do we ed an array?
+• Syntax.
+• Example.
+• Interview Questions.
+
+
+• Collection of data.
+• Store multiple value in a single variable.
+
+
+Types of Array
+• Indexeerrays
+• Associative arrays
+• Multidimensional arrays

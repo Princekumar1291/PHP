@@ -1,0 +1,6 @@
+Go To Statment
+• What is go-to statement
+• Syntax of go-to statement.
+• Example
+• Example with loops
+• Interview questions.

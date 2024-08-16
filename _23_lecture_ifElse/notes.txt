@@ -1,0 +1,7 @@
+If Conditional Statement
+• What does a Conditional Statement mean?
+• Types of Conditional Statment in php
+• What is the if condition?
+• Syntax of if condition?
+• Example.
+• Interview Questions.

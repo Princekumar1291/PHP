@@ -1,0 +1,13 @@
+Logical Operators
+• Use of Logical Operators
+• Names of Logical operator
+• Example.
+• Interview Questions.
+
+
+
+different logical operator
+&&
+||
+!
+^ only one is true then true(if both are true then false)

@@ -1,0 +1,30 @@
+Function in PHP
+• What are Functions?
+• Use of function.
+• Types of function.
+• Syntax.
+• Interview questions.
+
+
+What is a function
+• A block of code.
+• Used for a specific reason.
+• The function can reuse multiple time.
+
+
+//default parameter in function
+
+
+Nested Function
+• What is Nested function
+. Syntax
+• Example.
+• Interview Questions.
+
+
+
+Variable function in PHP
+• What is variable functions
+• Syntax.
+• Example.
+• Interview Questions.

@@ -1,0 +1,5 @@
+Multidimensional Associative array
+• What is a Multidimensional Associative Array?
+• Use of Multidimensional Associative Array.
+• Syntax and Example.
+• Interview Questions.

@@ -14,3 +14,8 @@ Types of Array
 • Indexeerrays
 • Associative arrays
 • Multidimensional arrays
+
+
+
+• Add multi elements.
+• Remove a single element.

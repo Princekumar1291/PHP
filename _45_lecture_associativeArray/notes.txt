@@ -1,0 +1,5 @@
+Associative Array
+• What is an Associati Array.
+• Use of Associative Array.
+• Syntax and Example.
+• Interview Questions.

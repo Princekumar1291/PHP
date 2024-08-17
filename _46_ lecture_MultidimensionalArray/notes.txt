@@ -1,0 +1,5 @@
+Multidimensional Array
+• What is a Multidimensional Array.
+• Use of Multidimensional Array.
+• Syntax and Example.
+• Interview Questions.

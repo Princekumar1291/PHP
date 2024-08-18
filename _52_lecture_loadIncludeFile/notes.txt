@@ -1,0 +1,14 @@
+Include file in another file
+• Why we need to include files?
+• include
+• Include once
+• required
+• required_once
+• Examples for all functions
+• Interview Questions.
+
+
+In PHP, require and include are both used to include and evaluate a file in your script, but they have some key differences in how they handle errors:
+
+require: If the file cannot be found or included, require will generate a fatal error and stop the script execution. This is useful when the file is essential for the application to run.
+include: If the file cannot be found or included, include will generate a warning, but the script will continue to execute. This is useful when the file is not critical to the rest of the script.

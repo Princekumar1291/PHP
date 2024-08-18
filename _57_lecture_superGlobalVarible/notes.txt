@@ -1,0 +1,27 @@
+Super Global Variable in PXP
+• What are Super Global Variables?
+• All Super Global Variables.
+• Examples.
+• Interview Question.
+
+
+What are Super Global Variables?
+• Default variables are defined in PHP.
+• You can access these variables
+anywhere in Project.
+
+
+
+
+
+
+Type of super global variable
+• $GLOBALS
+• $_SERVER
+• $_REQUEST
+• $_POST
+• $_GET
+• $_FILES
+• $_COOKIE
+• $_SESSION
+• $_ENV

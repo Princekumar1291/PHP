@@ -1,0 +1,6 @@
+$_REQUEST
+• What is $_REQUEST?
+• Make HTM and PHP files?
+• Make input field in HTML file?
+• Receive data in php file?
+• Apply loop on request data?

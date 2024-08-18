@@ -1,0 +1,5 @@
+$_FILE | Upload File
+• What is $_FILES
+• Make html and php file
+• Write code for upload file.
+• Interview Question.

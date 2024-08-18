@@ -1,0 +1,9 @@
+Local and Global Variables
+
+• What is Local variable?
+• What is Global variable?
+• How to get Global 
+• variable inside function.
+• Variables nested function.
+• Example
+• Interview Questions.

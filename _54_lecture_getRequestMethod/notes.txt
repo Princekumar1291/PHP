@@ -1,0 +1,5 @@
+Send data with GET Request
+• Make HTML file
+• Make PHP file
+• Make input field in HTML file
+• Receive data in php file

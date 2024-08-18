@@ -1,0 +1,5 @@
+Call function on button click php
+• Make button in
+• Make function in PHP
+• Call function on request
+• Interview Question.

@@ -1,0 +1,38 @@
+Cookies in PHP
+• What are cookies?
+• Syntax an params?
+• Set data in cookies?
+• Get data from cookies?
+• Interview Question.
+
+
+
+
+What Are Cookies in PHP?
+Cookies are small pieces of data that a server sends to the user's web browser. The browser stores these cookies and sends them back to the server with each request. Cookies are often used to store user preferences, session data, and other small pieces of information that help personalize the user experience.
+
+Syntax and Parameters
+In PHP, you can set a cookie using the setcookie() function. The basic syntax is:
+
+setcookie(name, value, expire, path, domain, secure, httponly);
+
+
+What Are Cookies in PHP?
+Cookies are small pieces of data that a server sends to the user's web browser. The browser stores these cookies and sends them back to the server with each request. Cookies are often used to store user preferences, session data, and other small pieces of information that help personalize the user experience.
+
+Syntax and Parameters
+In PHP, you can set a cookie using the setcookie() function. The basic syntax is:
+
+php
+Copy code
+setcookie(name, value, expire, path, domain, secure, httponly);
+Parameters:
+
+1 name (required): The name of the cookie.
+2 value (optional): The value of the cookie. Defaults to an empty string if not set.
+3 expire (optional): The time the cookie expires, given in a Unix timestamp. If not set, the cookie will expire at the end of the session (when the browser closes).
+4 path (optional): The path on the server in which the cookie will be available on. Defaults to the current directory that the cookie is being set in.
+5 domain (optional): The domain that the cookie is available to. Defaults to the current domain.
+6 secure (optional): If true, the cookie will only be transmitted over a secure HTTPS connection.
+7 httponly (optional): If true, the cookie will be accessible only through the HTTP protocol (not by JavaScript).
+

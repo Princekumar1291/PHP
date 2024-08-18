@@ -1,0 +1,27 @@
+How HTML Interact with PHP
+• What does this mean?
+• Why Interaction required
+• Request types
+• Interview Questions.
+
+
+
+
+
+Type of Request
+• Get Reuqest
+• Post request
+• Delete Request
+• Put/Patch request
+
+
+
+Get Request
+• Request is visible in the addres ar
+• Less secure request
+• Mostly used to get data from the server
+
+• Post request
+• Request is not visible in the address bar
+• secure
+• Used for r te and update operations on server

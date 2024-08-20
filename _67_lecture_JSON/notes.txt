@@ -1,0 +1,5 @@
+What isJSON
+• JSON stands for JavaScript Object Notation.
+• It is a text-based data exchange format for
+• structuring data.
+• It is mainly used to exchange data between a server and a web application.

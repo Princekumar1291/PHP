@@ -1,0 +1,6 @@
+Cookies with Form input Weld
+• Make HTML input fields.
+• Set data in cookies.
+• Display cookies data.
+• Delete cookies data.
+• Interview Question.

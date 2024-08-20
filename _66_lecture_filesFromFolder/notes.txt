@@ -1,0 +1,5 @@
+List of Yes from folder in
+• Use the path and get the file array
+• Remove extra elements
+• Use each loop for the display list
+• Interview Question.

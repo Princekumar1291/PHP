@@ -1,0 +1,27 @@
+Session in PHP
+• What is Session?
+• Why do we use session?
+• Syntax of session.
+• Example.
+• Interview Question.
+
+
+
+Cookies and sessions are both used to store data about a user in a web application, but they have distinct differences in how they work, where the data is stored, and their security implications. Here's a comparison between cookies and sessions:
+
+1. Storage Location:
+  Cookies:
+    Stored on the client-side, specifically in the user's web browser.
+    The data in cookies is sent back and forth between the client and server with each HTTP request.
+  Sessions:
+    Stored on the server-side.
+    The session data is not directly exposed to the client; instead, a session ID is stored in the user's browser, which is used to reference the session data on the server.
+
+2. Data Size:
+  Cookies:
+    Typically limited to around 4KB of data.
+    Suitable for small pieces of data like user preferences, remember-me functionality, etc.
+  Sessions:
+    Can handle much larger amounts of data since the data is stored on the server.
+    Suitable for storing sensitive data like user authentication details.
+

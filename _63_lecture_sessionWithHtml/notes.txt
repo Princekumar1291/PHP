@@ -1,0 +1,6 @@
+PHP Session with input fields
+• Make HTML form
+• Set data in session?
+• Get Data in session.
+• delete data from session.
+• Interview Question.

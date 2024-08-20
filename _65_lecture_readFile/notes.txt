@@ -1,0 +1,6 @@
+ Read File with PHP
+• Read a File with static data
+• Make html form with file input
+• Get the file name and path
+• Read file with form data
+• Interview Question.

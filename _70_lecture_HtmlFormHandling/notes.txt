@@ -1,0 +1,5 @@
+Form Handling with php
+• Make HTML and PHP files.
+• Make html form with all input types.
+• Get html form data in PHP.
+• Interview Questions.

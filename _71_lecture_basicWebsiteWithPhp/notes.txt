@@ -1,0 +1,5 @@
+Make Simple Website
+• Make Home, About and Contact Us Page.
+• Make common Header and Footer.
+• Add some style.
+• Test website 

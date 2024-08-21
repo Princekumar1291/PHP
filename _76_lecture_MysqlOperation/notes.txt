@@ -1,0 +1,130 @@
+Database operations
+• All operations with UI and SQL.
+• What is SQL?
+• Create Database.
+• Database List.
+• Delete database.
+
+
+//to Create table with name college in mysql
+CREATE DATABASE college;
+
+//to show all databases
+SHOW DATABASES;
+
+
+//to delete database
+DROP DATABASE college;
+
+
+MySQL, Create Table
+• Create a Table with UI.
+• Create a Table with SQL?
+• Set Primary Key in the table.
+• Set Auto increment.
+
+
+//to create table in mysql with name students with fields name,course,batch,city,year 
+CREATE TABLE students(
+	id int NOT NULL AUTO_INCREMENT,
+    name varchar(30),
+    course varchar(30),
+    batch varchar(30),
+    city varchar(30),
+    year varchar(30),
+    PRIMARY KEY(id)
+)
+
+
+
+MySQL, Insert data in Table
+• Insert data in Table with UI.
+• Insert data in Table with SQL?
+
+
+//to insert data in table with name Vasker,course B.tech,batch morning,city noida,year 1st
+INSERT INTO students(name,course,batch,city,year) VALUES ("Vasker","B.tech","morning","noida","1st");
+
+
+Get and Search data in Table
+• Get data in Table with UI.
+• Get data in Table with SQL
+• Search data with UI and SQL
+
+//to get data from table in mysql in students table
+SELECT * FROM students;
+
+
+//to get the all data from table in mysql in students table where batch is morning
+SELECT * FROM students WHERE batch="morning";
+
+
+//to get the name and city from table in mysql in students table where batch is morning ans show only name and city fields
+SELECT name,city FROM students WHERE batch="morning";
+
+
+//Search by city and year
+SELECT * FROM students WHERE city = "Noida" AND year = "1st";
+
+
+//Search with Multiple Conditions
+SELECT * FROM students WHERE course = "B.tech" AND city = "Delhi" AND year = "2nd";
+
+
+
+
+
+
+
+
+Update and Delete data in Table
+• Update data in Table with UI.
+• Update data in Table with SQL.
+• Delete Rows from the Table with UI.
+• Delete Rows from Table and SQL.
+
+
+//to update data in table in mysql in students table where id is 5
+UPDATE students set name="Bipin" WHERE students.id=5
+
+
+
+//Update Multiple Fields
+UPDATE students 
+SET course = "MCA", batch = "afternoon" 
+WHERE name = "Student2";
+
+
+
+//Update Using Multiple Conditions
+UPDATE students 
+SET batch = "evening" 
+WHERE city = "Noida" AND year = "1st";
+
+
+
+//Update All Records
+UPDATE students 
+SET batch = "morning";
+
+
+Delete Rows from Table
+• Delete Rows from Table with UI.
+• Delete Rows from Table with SQL.
+
+
+
+//Delete a Single Record
+DELETE FROM students 
+WHERE name = "Student1";
+
+
+
+//Delete Records with Multiple Conditions
+DELETE FROM students 
+WHERE course = "B.tech" AND city = "Delhi";
+
+
+
+//Delete All Records
+DELETE FROM students;

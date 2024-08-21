@@ -1,0 +1,24 @@
+Die, Exit and Return
+• Use of die, exit and return
+• Difference between them
+• Pass message
+• Example
+• Interview Questions
+
+
+Scope:
+
+die()/exit(): Terminates the entire script.
+return: Exits a function or method and passes control back to the caller.
+
+Usage Context:
+die()/exit(): Used in scripts or any place where you need to stop the entire script.
+return: Used within functions/methods to end their execution and possibly return a value.
+
+Message or Value:
+die()/exit(): Can output a message and stop the script.
+return: Can return a value to the caller and stop the function's execution.
+
+
+
+

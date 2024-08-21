@@ -1,0 +1,33 @@
+Database and PHP
+• What is a Database?
+• Why database is important with php.
+• How database and PHP work together.
+• what we will learn about database
+
+
+What is database
+• A database is a collection of structured
+• information or data.
+• Users of a website
+• Products of e-commerce website.
+• Almost every big website use database 
+
+
+
+
+Database and Language
+• He database is different from programmning
+languages such as PHP, java,C++.
+• We can connect and use the database with Programming lang.
+• Oracle, MySQL, SQL,MongoDB server etc are the tools that
+are mostly used as database tools.
+• This information can not be stored in a variable or array for a long time
+
+
+Database and PHP
+• When we install Xampp server.
+• Mysql is also installed automatically.
+• We need to write some lines of code to connect DB with PHP
+• Mysql, Oracle, Mong DP 11 major DBs can connect with PHP
+• First, we learn some basic commands for MySQL
+• Than we use MySQL with php

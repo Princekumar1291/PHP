@@ -1,0 +1,6 @@
+Read Data from Mysql in P
+• Make Config File
+• Make a file for reading data
+• Write code to get data
+• Display data in html table
+• interview question

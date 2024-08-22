@@ -1,0 +1,4 @@
+PHP and MySq Connection wit
+Make Variables for connection.
+• Make Connect with PDO class.
+• Get the Table List from database.

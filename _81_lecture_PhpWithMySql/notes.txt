@@ -1,0 +1,5 @@
+Connect PHP with MySqI
+• How many ways do we have to connect?
+• Make Variables for connection.
+• Make Connect with MySQLi class.
+• Get the Table List from database.

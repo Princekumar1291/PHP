@@ -1,0 +1,24 @@
+Insert Data in Mysql table
+• Make file for inserting data.
+• Import config file.
+• Make html form
+• Insert data with HTML form
+• Check if data in inserted or not
+• interview question
+
+
+
+
+Key Differences Between include and require
+
+Error Handling:
+  include: Issues a warning (E_WARNING) if the file cannot be included, and the script continues execution.
+  require: Issues a fatal error (E_COMPILE_ERROR) if the file cannot be included, and the script stops executing.
+
+Use Cases:
+  include: Suitable for files that are not critical to the application's execution. Use include when the file is optional or not essential for the script to function properly.
+  require: Suitable for files that are critical to the application's execution, such as configuration files or essential libraries. Use require when the file is mandatory for the script to work.
+
+Behavior:
+  include: Allows the script to continue running even if the file is missing, which is useful when you have fallback logic or optional components.
+  require: Stops the script execution, making it useful for ensuring that required files are present and preventing the script from running with missing dependencies.

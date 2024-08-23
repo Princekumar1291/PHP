@@ -1,0 +1,6 @@
+Make Dropdown with Mysql Data
+• Make dropdown file
+• Include config file
+• Fetch data from MySQL DB
+• Make Dropdown from data
+• Interview question

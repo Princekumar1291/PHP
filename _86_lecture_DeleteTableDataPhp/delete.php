@@ -26,12 +26,10 @@ $students = $studentQue->fetchAll(PDO::FETCH_ASSOC);
 
 echo "<table border='1'>";
 echo "<tr>";
-echo "<th>Name</th>";
-echo "<th>Course</th>";
-echo "<th>Batch</th>";
-echo "<th>City</th>";
-echo "<th>Year</th>";
-echo "<th>Action</th>";
+   foreach(array_keys($students[0]) as $key){
+       if($key != "id")echo "<th>$key</th>";
+   }
+   echo "<th>Action</th>";
 echo "</tr>";
 
 foreach ($students as $student) {

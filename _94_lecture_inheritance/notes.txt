@@ -1,0 +1,3 @@
+Inheritance in PHP 
+• The process of transmission of genes from parent to offspring.
+• Passing Features from parent class to child class

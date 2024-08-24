@@ -1,0 +1,67 @@
+PHP and OOP
+• What is OOP
+• Why use OOP
+• OOP with PHP
+• Interview Question.
+
+
+
+What is OOP
+• OOP stands for Object-Oriented Prog ing.
+• OOPs is a model of programming.
+• Organizes software design with classes and Objects.
+
+
+Why use OOPs
+• Easy code manage
+• Better reusability
+• Faster and secure.
+
+
+PHP and OOP
+• PHP supports 2 models for code.
+• OOP and Procedural.
+• But now, most developers use oop
+• Even Laravel and PHP other framework
+• Syntax and mostly things are same
+• Many Programming Language support OOP model
+
+
+Class and Object in OOP
+• What is Class?
+• What is an Object?
+• Real-world example of class and Object.
+• Class and Object works.
+
+
+
+What is class and Object
+• Class is a blueprint for creating objects?
+• Template that defines the variables and methods for a specific type of object.
+
+• An object is an Instance/Copy of a class.
+• We can create multiple objects
+
+
+
+
+Properties in PHP class
+• Make class.
+• Make Object.
+• Define Properties in class.
+• Update Properties with method.
+• Call Properties with Object
+
+
+Constructor in PHP
+• What is a co tructor?
+• Make class.
+• Make Object.
+• Define constructor in class.
+• An Example with a constructor
+
+
+Constructor in PHP
+A special function in class
+• Call automatically when an object created
+• __construct is fixed name for constructor

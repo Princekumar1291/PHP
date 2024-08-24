@@ -1,0 +1,6 @@
+Popluate data in input fields
+• Make a File for update a record
+• Include config file
+• Add Update button with table
+• Get student data with selected id
+• Populate data in input fields 

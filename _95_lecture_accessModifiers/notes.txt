@@ -1,0 +1,20 @@
+PHP Access Modifiers
+• What is an Access Modifier?
+• Type of access modifiers?
+• Details of all Access modifiers?
+• Examples
+• Interview Questions
+
+
+PHP access modifiers
+• Access Modi er ecides where we can access the
+methods and properties.
+
+• Access zone
+  • Access inside the current class only
+  • Access everywhere
+  • Access in inherited class
+• Type of access Modifiers
+  • private
+  • public
+  • protected

@@ -1,0 +1,5 @@
+Constant in PHP class
+• How to define constant in PHP class
+• How to call constant inside class
+• Call constant outside class
+• Constant with access modifiers

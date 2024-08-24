@@ -1,0 +1,14 @@
+Method and Property OverRiding in PHP class
+• What is the Method Overriding?
+• What is the Property Overriding?
+• Example of Overriding.
+• Interview Questions.
+
+
+Method and Property
+OverRiding in PHP class
+• Child cla sh sthe same method or property
+name ast e parent.
+
+• But child class has different implementation of
+methods or Properties?

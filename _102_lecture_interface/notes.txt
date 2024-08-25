@@ -1,0 +1,16 @@
+Interface in PHP?
+• What is Interface?
+• Why do we use Interface?
+• Difference between Interface and abstract class
+• Example of Interface
+• Interview Questions.
+
+
+What is Interface ?
+• Interfaces tell what methods a class should implement.
+
+
+Interface VS Abstract Class
+• Interfaces cannot have rp erties, while abstract classes can.
+• All interface methods must be public, While abstract class methods are public or protected
+• All methods in an interface are abstract, so they cannot be implemented in code and the abstract keyword is not necessary

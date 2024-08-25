@@ -1,0 +1,9 @@
+Abstract Class
+• What is an Abstract class?
+• Why do we use abstract classes?
+• Example of abstract class
+• Interview Questions.
+
+What is Abstract Class
+• Template that defines methods for a child classes.
+• In Abstract class, we declare methods but write implementation in child class

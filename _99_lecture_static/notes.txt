@@ -1,0 +1,7 @@
+Static Method and Property
+• Use of a static keyword?
+• When to create static Method and Property?
+• Why create static methods and properties?
+• Make class.
+• Example.
+• Interview Questions.

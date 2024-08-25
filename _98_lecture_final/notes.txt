@@ -1,0 +1,13 @@
+Final Keyword PHP
+• Use ot Fine keyword with Class
+• Use of Find keyword with Method
+• Make child and parent class
+• Example
+• Interview Questions
+
+
+
+Method and Property
+OverRiding in PHP class
+• Child class has the same me or property name as the parent.
+• But child class has different implementation of methods or Properties?

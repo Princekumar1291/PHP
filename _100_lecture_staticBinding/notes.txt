@@ -1,0 +1,7 @@
+Late Static Binding
+• What is Late Static Binding?
+• Make parent and child class.
+• Example.
+• Interview Questions.
+
+

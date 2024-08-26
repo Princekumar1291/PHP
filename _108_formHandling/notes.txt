@@ -1,0 +1,4 @@
+Call class function with Form Handling
+• Make form with input and button.
+• Make class.
+• Call class functions on the button click.

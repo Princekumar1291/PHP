@@ -1,0 +1,5 @@
+Method Chaining in PHP
+• What is method chaining?
+• Make class and methods.
+• Example of method chaining.
+• Interview Questions.

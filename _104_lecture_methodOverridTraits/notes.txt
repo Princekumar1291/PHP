@@ -1,0 +1,6 @@
+Method Overriding Traits
+• What is Method Overriding?
+• Make 2 Traits and 1 Class.
+• Define the Same methods in Traits and Class.
+• Example of Method Overriding Traits.
+• Interview Questions.

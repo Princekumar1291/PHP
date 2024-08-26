@@ -1,0 +1,6 @@
+Traits in PHP
+• What are Traits and Why do we use it?
+• Make Traits and Class
+• Use Traits with class
+• Example
+• Interview Questions 

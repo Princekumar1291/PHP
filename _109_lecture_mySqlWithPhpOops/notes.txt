@@ -1,0 +1,5 @@
+MySQL with PHP oops
+• Recap MySQL connect with php.
+• Make Config file and DB connection.
+• Make class and pass database connection.
+• Fetch data.

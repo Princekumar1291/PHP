@@ -1,0 +1,67 @@
+Magic Methods in PHP
+• What are magic methods?
+• List of Magic methods
+• Example.
+• Interview Questions.
+
+
+
+
+What are Magic Methods
+• Special methods that are automatically invoked by certain actions.
+
+
+Example
+• _ construct()
+• when no ject of class created
+
+• _destruct()
+• when the script is completed
+• when the object of class destroyed
+
+
+List of Magic Functions
+• construct()   
+• _destruct()   
+• _ call()      
+• _caIIStatic() 
+• -get()        
+• _set()        
+• _isset()      
+•_unset()       
+
+
+
+• _sleep()
+• _ wakeup()
+• _ serialize()
+• _ unserialize()
+• _toString()
+• _ invoke()
+• _set_state()
+• _clone()
+• _ debuglnfo()
+
+
+__invoke magic method
+• What is the use of invoke method
+• Make class and invoke method
+• Example
+
+
+_get magic method
+• What is the use of ___get method
+Make class and _get method
+• Example
+
+
+set magic method
+• What is the use of set method
+• Make class and set method
+• Example
+
+
+call magic method
+• What is the use of _call method
+• Make class and call method
+• Example

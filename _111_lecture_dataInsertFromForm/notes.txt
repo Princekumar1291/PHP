@@ -1,0 +1,5 @@
+MySQL with PHP oops
+• Insert data with HTML form
+• Make HTML file and form
+• Submit request from Html to php
+• Make a function for interting data with requests

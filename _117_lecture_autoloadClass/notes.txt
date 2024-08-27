@@ -1,0 +1,5 @@
+Autoload Files and class
+• Make multiple classes.
+• Make autoload function
+• Autoload multiple files
+• _autoload magic function is Deprecated
